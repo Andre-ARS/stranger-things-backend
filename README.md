@@ -15,7 +15,7 @@ Neste projeto recebi um frontend e um backend previamente prontos, e minha taref
 > Clone o Repositório
 
 ```bash
-git clone git@github.com:Andre-ARS/stranger-things-frontend.git
+git clone git@github.com:Andre-ARS/stranger-things-backend.git
 ```
 
 > Dentro do diretório do projeto, instale as dependencias
@@ -24,7 +24,7 @@ git clone git@github.com:Andre-ARS/stranger-things-frontend.git
 npm install
 ```
 
-> Rode o frontend
+> Rode o backend
 
 ```bash
 npm start
